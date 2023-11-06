@@ -1,0 +1,19 @@
+#button{
+  font-size: 30px;
+  font-family: sans-serif;
+  border: groove 2px black;
+  border-radius: 40px;
+  padding: 1%;
+}
+body{
+  text-align: center;
+  padding-top: 13%;
+  background-color: beige;
+}
+#amount,#interest,#months{
+  /*padding: .5%;*/
+  height: 60px;
+  font-size: larger;
+  border: transparent;
+  border-radius: 40px;
+}
